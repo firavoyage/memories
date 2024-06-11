@@ -1,7 +1,7 @@
 alias
 ```
 a about
-b bili
+b bili | bangumi
 c comment
 d dev
 h hentai
