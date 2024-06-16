@@ -6,10 +6,10 @@ c comment
 d dev
 h hentai
 g gaming
-n news
+n nsfw
 p post | person
 q quotes
-r retro
+r retro | reddit
 s story
 t tech
 v vocabulary
